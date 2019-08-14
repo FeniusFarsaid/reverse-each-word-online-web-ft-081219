@@ -13,3 +13,5 @@ end
 #   return_array.join(" ")
 # end
   
+  
+  # reversed_sentence = array.each {|element| reversed_sentence << element.reverse}
